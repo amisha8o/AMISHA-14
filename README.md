@@ -40,9 +40,10 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amisha8o&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amisha8o&theme=tokyonight" />
 </p>
-
 ---
 
 ## 📫 Connect with Me
