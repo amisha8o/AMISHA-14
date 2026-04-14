@@ -1,4 +1,4 @@
-# amisha8o-AMISHA-14
+
 <h1 align="center">Hi 👋, I'm Amisha Kumari</h1>
 <h3 align="center">Aspiring Software Development Engineer (SDE) | Java | DSA | Full Stack Developer</h3>
 
