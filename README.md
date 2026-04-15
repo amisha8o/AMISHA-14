@@ -116,6 +116,7 @@
 
 * 📧 Email: [amishakumaripatna123@gmail.com](mailto:amishakumaripatna123@gmail.com)
 * 💼 LinkedIn: https://linkedin.com/in/amisha-kumari-3b80aa2b1
+* Greek For Greek: https://www.geeksforgeeks.org/profile/amishakumaripatna123
 
 ---
 
