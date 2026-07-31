@@ -122,5 +122,6 @@
 
 ## 💡 Quote
 
-> “Code. Learn. Build. Repeat. 🚀”
+> “Code. Learn. Build. Repeat. 🚀@author
+> amisha
   
